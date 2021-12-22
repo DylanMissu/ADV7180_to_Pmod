@@ -10,6 +10,5 @@ You can see the updated schematic of our main board in the picture below
 
 | Front | Back |
 |---|---|
-|In this picture you can see the front of the pcb|In this picture you can see the back of the pcb
 |![front](./img/PCB_FRONT.png) | ![back](./img/PCB_BACK.png) |
 
