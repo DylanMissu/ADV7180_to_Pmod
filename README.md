@@ -5,7 +5,7 @@ I'm currently working on an implementation for it in Vivado and i'll eventually 
 
 ## Schematic
 
-Schematic of the video converter.
+Schematic for the video converter.
 ![Schematic](./img/video_converter.svg)
 
 ## Pictures
