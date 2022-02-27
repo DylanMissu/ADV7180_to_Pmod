@@ -1,15 +1,16 @@
 # ADV7180_to_Pmod
 These are pcb files for an analog camera block interface board based on the adv7180.
 
+I'm currently working on an implementation for it in Vivado and i'll eventually post the source files to my github aswell.
+
 ## Schematic
 
-You can see the updated schematic of our main board in the picture below
+Schematic for the video converter.
 ![Schematic](./img/video_converter.svg)
 
 ## Pictures
 
 | Front | Back |
 |---|---|
-|In this picture you can see the front of the pcb|In this picture you can see the back of the pcb
 |![front](./img/PCB_FRONT.png) | ![back](./img/PCB_BACK.png) |
 
